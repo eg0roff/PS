@@ -1,22 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="b943f014-9379-4780-9db0-8e9280bc5f0f" name="Changes" comment="qwe">
-      <change afterPath="$PROJECT_DIR$/class_construct.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/container_clean.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/container_construct.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/container_in.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/container_out.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/in_circle.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/in_rectangle.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/input_shape.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out_circle.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out_rectangle.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/output_shape.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test.py" beforeDir="false" />
-    </list>
+    <list default="true" id="b943f014-9379-4780-9db0-8e9280bc5f0f" name="Changes" comment="qwe" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
